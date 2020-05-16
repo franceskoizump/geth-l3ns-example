@@ -1,4 +1,4 @@
-# geth_madt
+# geth_l3ns
 
 1. Build images and start the lab
 ```
