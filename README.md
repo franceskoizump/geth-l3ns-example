@@ -1,5 +1,5 @@
 # geth_l3ns
-
+[video](https://youtu.be/66gOaZyt0Qw)
 1. Build images and start the lab
 ```
 docker build -t eth .
